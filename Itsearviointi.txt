@@ -1,0 +1,28 @@
+Mielestäni projekti sujui pohjaltaan ihan hyvin. Sivustolla on monia toimintoja joita en saanut laitettua.
+Sivusto on minimaalisesti ja tärkeimpien toimintojen mukana toiminnallinen, paitsi itse työskentelijän ja työn varaaminen.
+
+En ollut pitkään aikaan käyttänyt html, js, css tai php:tä, joten jouduin muistuttamaan itseäni monissa tilanteissa ja etsin netistä,
+sekä ystäviltä apua ongelmiin. Harmittaa, että omalla tietokoneella jostain syystä "procedual" ja "object based" ohjelmointi halunnut
+toimia. Käytin hyvin paljon aikaa yrittää ratkaista ongelmaa, jonka mukana sivuston näkymä ja muutamat toiminnot eivät saaneet
+tarpeeksi aikaa mitä olisin niihin halunnut käyttää. 
+
+Vaikka hain osan mm. php koodista videovuokraamo projektista, osasin silti omasta mielestä käyttää koodia luovasti ja ymmärtää 
+mitä kaikki toiminnot tekevät. Netistä ja kaverilta haettu avun kanssa oli hauskaa ja mielenkiintoista oppia uudestaan ja jotain
+kokonaan uutta jota en tiennyt tai ymmärtänyt ennen. 
+
+Koodin mukana olevat nimet olisivat voineet olla parempia ja niissä menin välillä hieman sekaisin. Tietokannan kanssa oli mielestäni
+vaikeaa toimia ilman PDO ja mysqli apuja, suurimmaksi osaksi sillä jos hain netistä miten jonkin asian voisi tehdä, jouduin 
+olemaan hieman luovempi PhP koodin kanssa. En saanut myöskään implementoitua arvosana toimintoa työntekijöille vuokrauksen
+vaikeuden takia. Tarkoitus oli antaa asiakkaan tykätä työskentelijästä joka lisäisi tietokannassa olevaan arvosanaan + 1, tai 
+sanoa että ei tykkää, joka vähentäisi arvon yhdellä. Olisin myös voinut lähettää tietokantaa tykkäykset ja ei tykkäykset erikseen.
+
+En myöskään saanut toimintoa jonka halusin olla sivuston "kikka", jossa asiakas pystyisi hakemaan sarjanumeron avulla minkä tahansa
+olemassa olevan SCP olion ja palkata sen tekemään jonkin työtehtävän. Kuinka paljon työ maksaisi riippuisi SCP:n vaara-asteesta.
+En kuitenkaan saanut toimintoa aloitettua, mutta minulla oli suunnitelma löytää ja ladata netistä tietokannan, tai yrittää
+saada kaiken tiedon viralliselta nettisivulta. 
+
+Sivustoa oli helppo päivittää ja jokseenkin helppo navigoida, mutta se voi johtua siitä että rakensin sen itse. Olisin voinut
+varmasti kommentoida hieman enemmän. 
+
+Ylipäätäänsä mielestäni sain päätoiminnot tehtyä jokseenkin hyvin, ja olen iloinen että sain sisäänkirjautumisen tehtyä, vaikka
+tuntui PDO ja mysqli ongelmat eivät antaneet sen toimia. Jos antaisin itselleni arvion, antaisin varmaan 3.
